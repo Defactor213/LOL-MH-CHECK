@@ -1,7 +1,7 @@
 ## Project by Eric Li, finished 3/8/2021. ##
 ## DEPRECIATED DUE TO GARENA REMOVING THEIR MATCH HISTORY FUNCTION##
 
-## Purpose and functionality##
+## Purpose and functionality ##
 Tired of manually copy pasting names from the client chatbox into the league webpage to check individual match histories. 
 Programme will scrape all usernames, and automactically open chrome windows with respective match histories 
 built in python, using selenium for form input
